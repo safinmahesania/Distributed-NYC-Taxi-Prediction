@@ -1,5 +1,4 @@
-# Distributed NYC Taxi Prediction
-Scalable Trip Duration Prediction for NYC Yellow Taxi: A Distributed Machine Learning System
+# Scalable Trip Duration Prediction for NYC Yellow Taxi: A Distributed Machine Learning System
 
 This project predicts taxi trip durations using more than 53 million NYC Yellow Taxi trip records. The system uses a distributed data pipeline and machine learning workflow built with Apache Spark, Delta Lake, and Azure Databricks.
 
