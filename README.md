@@ -121,3 +121,14 @@ Machine learning models were trained using Spark MLlib with data parallelism.
 - ACID transactions prevent inconsistent writes
 - ML training scalability varies by model
 - Cloud platforms simplify pipelines but still require tuning
+
+
+## License
+- This project is licensed under the MIT License.
+
+## Contributing
+- Contributions are welcome. Feel free to open issues or submit pull requests.
+
+## Happy farming & early disease detection!
+
+
