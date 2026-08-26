@@ -128,6 +128,4 @@ Machine learning models were trained using Spark MLlib with data parallelism.
 ## Contributing
 - Contributions are welcome. Feel free to open issues or submit pull requests.
 
-## Happy farming & early disease detection!
-
 
